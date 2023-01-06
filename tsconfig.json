@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
-
+    "noEmit": true,
+    "checkJs": true,
     "target": "ES2022",
     "module": "ES2022",
     "lib": ["ES2022"],
@@ -16,7 +16,7 @@
     "alwaysStrict": true,
     "allowUnreachableCode": true,
     "allowUnusedLabels": true,
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "noImplicitReturns": true,
     "resolveJsonModule": true,
 
