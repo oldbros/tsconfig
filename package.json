@@ -1,6 +1,6 @@
 {
   "name": "@oldbros/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.0-beta1",
   "description": "Oldbros typescript configuration",
   "main": "tsconfig.json",
   "repository": {
