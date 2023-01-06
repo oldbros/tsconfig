@@ -1,0 +1,30 @@
+{
+  "name": "@oldbros/tsconfig",
+  "version": "1.0.0",
+  "description": "Oldbros typescript configuration",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldbros/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "author": {
+    "name": "Georg Oldenburger",
+    "email": "georgoldenb@gmail.com",
+    "url": "https://github.com/georgolden"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oldbros/tsconfig/issues"
+  },
+  "homepage": "https://github.com/oldbros/tsconfig#readme",
+  "files": [
+    "tsconfig.json"
+  ]
+}
