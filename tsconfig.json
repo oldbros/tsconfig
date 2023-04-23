@@ -20,6 +20,7 @@
     "noImplicitReturns": true,
     "resolveJsonModule": true,
 
-    "declaration": true
+    "declaration": true,
+    "strictNullChecks": false
   }
 }
